@@ -1,20 +1,21 @@
 **<img width="791" alt="image" src="https://user-images.githubusercontent.com/104863800/183230189-40d510cd-e433-4dd3-8df7-b5e9e0e40923.png">
 **
 
-# Contributors (no order)
+# Group Members:
 
-### Group Members: 
 Prerita Chawla,
-Deeksha Rai, 
+Deeksha Rai,
 Fabio Bauer,
 Jasper Hilliard,
-Rafe Sharif, 
+Rafe Sharif,
 Mrugsen Gopnarayan,
 
 ### Mentors
-Alish Dipani,
-Emeka Ogbuju,
-Kohitij Kar
+Dr. Kohitij Kar,
+Dr. Emeka Ogbuju,
+Alish Dipani
+
+
 
 # Presentation and Methodology
 Check root directory for detailed methods
