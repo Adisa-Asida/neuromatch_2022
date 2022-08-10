@@ -15,43 +15,16 @@
 * Alish Dipani (Pod TA)
 
 
+## Abstract
 
-# Introduction
+The human visual cortex has a hierarchical representation of stimuli. While the early visual areas (V1, V2, V3) capture orientation and edge detection, later visual areas (V4, Lat Occ) govern initial steps of object recognition. Previous studies have reported a difference in fMRI responses between natural and urban landscapes in certain parts of the brain (Andrews et al. 2015, Gwang-Won Kim et al. 2010). Correspondingly, differential representation shall also be seen for natural (deers, potatoes, trees) and man-made (hat, pen, chair) stimuli in the later visual areas. By utilizing the Kay images fMRI dataset (Kay 2008), here we introduce natural against man-made visual input to address the level of representation such complex stimuli have at each of these levels. We first test our hypothesis by feeding the image dataset into a deep neural net, CORnet-S, to provide us with the possible predictions of encoding in the model layers. Next, we generate dissimilarity matrices (RDM) of the model layers and the Kay image fMRI data to compute the correlations. This will serve to give us a representational similarity analysis (RSA) of the model and the brain. If indeed there is an intrinsic difference between the representation of natural and man-made stimuli, this might indicate that the brain has perhaps developed two-distinct systems for their representations which can be directed through evolution. Further analysis may facilitate the contributory role of evolution towards this paradigm.
 
-### Abstract
 
-The human visual cortex has been associated with hierarchical perception
-of various stimulus features. The first stop after relay from the
-lateral geniculate nucleus, V1 is involved in low-level processing of
-visual input from the retina. It is involved in depth and orientation
-perception. And also has some role in color recognition. V2 is involved
-in patterns and object orientation. V3 is interconnected with parietal
-and temporal streams and has some neurons which are sensitive to motion.
-Similarly, V4 is interconnected with the ventral stream. Some neurons in
-V4 are involved in initial steps of object recognition.(Arcaro et.
-al. 2015) In the context of comparing natural vs manmade stimuli, we
-raise the question of their encoding in these different areas. Some
-studies have probed for differences in fMRI response of natural scenes
-vs. urban scenes. They observed a difference between responses for
-natural and urban landscape images in some parts of the brain (Andrews
-et. al. 2015, Gwang-Won Kim et. al. 2010). We employ the use of neural
-networks to process images. Neural networks are far less sophisticated
-processors, lacking the benefit of evolution. But some (such as CorNet)
-are intended to mirror the brain's encoding style. Therefore, we expect
-that the analysis of manmade/natural images in the CorNet-S model will
-show no differences in correlation, and in this way they will act as a
-control group, so that if there is a positive effect size in the
-analysis of brain data, it can be considered as significant. To detect
-this difference, we used the representational dissimilarity matrix (RDM)
-approach to check if natural stimuli and artificial stimuli are
-represented differently. This process would be repeated for each
-counterpart ROI/layer. We employed representational similarity analysis
-(RSA). In our analysis of the data, we observed many commonalities, but
-also certain significant differences between the neural networks that
-may hint at the brain encoding natural images differently from manmade
-ones.
+## Introduction
+## Methods
+## Results
+## Discussion
 
-# Implications/conclusions
 
 ### Conclusions
 The dissimilarity appeared to be uniform throughout all
