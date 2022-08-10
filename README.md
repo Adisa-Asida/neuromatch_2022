@@ -2,8 +2,12 @@
 **
 
 # Group Members:
-* Bullet list
-Deeksha Rai, Fabio Bauer, Jasper Hilliard, Mrugsen Gopnarayan, Prerita Chawla, Rafe Sharif
+* Deeksha Rai
+* Fabio Bauer
+* Jasper Hilliard
+* Mrugsen Gopnarayan
+* Prerita Chawla
+* Rafe Sharif
 
 ### Mentors
 Dr. Kohitij Kar,
