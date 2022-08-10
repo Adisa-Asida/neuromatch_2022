@@ -9,10 +9,10 @@
 * Prerita Chawla
 * Rafe Sharif
 
-### Mentors
-* Dr. Kohitij Kar
-* Dr. Emeka Ogbuju
-* Alish Dipani
+### Mentors & TAs
+* Dr. Kohitij Kar (Project Mentor)
+* Dr. Emeka Ogbuju (Project TA)
+* Alish Dipani (Pod TA)
 
 
 
