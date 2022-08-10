@@ -10,8 +10,8 @@
 * Rafe Sharif
 
 ### Mentors
-* Dr. Kohitij Kar,
-* Dr. Emeka Ogbuju,
+* Dr. Kohitij Kar
+* Dr. Emeka Ogbuju
 * Alish Dipani
 
 
